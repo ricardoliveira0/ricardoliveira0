@@ -4,7 +4,7 @@
 
 <br>
 
-<img alt="Ricardo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoliveira0&layout=compact&theme=vue-dark&hide=kotline" />
+<img align="left" alt="Ricardo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoliveira0&layout=compact&theme=vue-dark&hide=kotline" />
 
 <br><br>
 
