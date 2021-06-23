@@ -2,9 +2,9 @@
 
 <img align="left" alt="Ricardo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ricardoliveira0&show_icons=true&theme=vue-dark" />
 
-<br>
+&nbsp;
 
-<img align="left" alt="Ricardo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoliveira0&layout=compact&theme=vue-dark&hide=kotline" />
+<img alt="Ricardo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoliveira0&layout=compact&theme=vue-dark&hide=kotline" />
 
 <br><br>
 
