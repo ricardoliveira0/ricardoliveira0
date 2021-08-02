@@ -1,3 +1,15 @@
+## Hey, I'm Ricardo! 💻
+
+<strong> Computer Sciences Engineering Student @ University of Évora </strong>
+
+<hr>
+
+- 🔭 I'm currently working on own projects
+- 🌱 I'm currently learning Vue.js
+- 👯 I'm looking to collaborate on FiveM projects
+
+<hr>
+
 ![ricardoliveira0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveira0&show_icons=true&theme=vue-dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoliveira0&layout=compact&theme=vue-dark&hide=kotline)
