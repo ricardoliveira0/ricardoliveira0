@@ -5,7 +5,7 @@
 <hr>
 
 - 🔭 I'm currently working on own projects
-- 🌱 I'm currently learning Vue.js
+- 🌱 I'm currently looking to start learning Vue.js or AngularJS
 - 👯 I'm looking to collaborate on FiveM projects
 
 <hr>
