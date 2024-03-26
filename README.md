@@ -5,7 +5,7 @@
 <hr>
 
 - 🔭 I'm currently working on own projects
-- 🌱 I'm currently learning Angular
+- 🌱 I'm currently learning React
 
 <hr>
 
