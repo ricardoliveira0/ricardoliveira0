@@ -9,9 +9,9 @@
 
 <hr>
 
-![ricardoliveira0's GitHub stats](https://github-readme-stats-xo7a-ricardos-projects-313be99d.vercel.app/api?username=ricardoliveira0&show_icons=true&theme=vue-dark&count_private=true)
+![ricardoliveira0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveira0&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats-xo7a-git-master-ricardos-projects-313be99d.vercel.app/api/top-langs/?username=ricardoliveira0&layout=compact&theme=vue-dark&hide=kotline)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoliveira0&layout=compact&theme=vue-dark&hide=kotline)
 
 
 <br>
